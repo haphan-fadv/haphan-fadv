@@ -169,7 +169,7 @@
             <mxPoint x="-379" y="814.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUP362dJuVGywB3xuQsQ-29" value="1. Upload the Signed TNC FAN letter&lt;br&gt;2. Remove the FAN invitation if existed" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="fUP362dJuVGywB3xuQsQ-29" value="1. Upload the Signed TNC FAN letter&lt;br&gt;2. Delete the FAN invitation if existed" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-935" y="935" width="310" height="75" as="geometry" />
         </mxCell>
         <mxCell id="fUP362dJuVGywB3xuQsQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUP362dJuVGywB3xuQsQ-32" target="fUP362dJuVGywB3xuQsQ-35">
